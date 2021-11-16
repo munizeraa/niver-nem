@@ -1,0 +1,44 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/card_alternatives"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/QuizCard">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginHorizontal="30dp"
+            android:layout_marginVertical="30dp">
+
+            <com.google.android.material.chip.ChipGroup
+                android:id="@+id/alternatives_group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent">
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/alternative_one"
+                    style="@style/QuizChip"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/alternative_two"
+                    style="@style/QuizChip"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/alternative_three"
+                    style="@style/QuizChip"/>
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/alternative_four"
+                    style="@style/QuizChip"/>
+
+            </com.google.android.material.chip.ChipGroup>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

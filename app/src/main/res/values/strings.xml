@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">NemNiverson</string>
+    <string name="quiz_title">Quiz do Nem</string>
+    <string name="quiz_start_game">Bora lá meu consagrado?</string>
+    <string name="quiz_back">Voltar</string>
+    <string name="quiz_next">Proximo</string>
+    <string name="quiz_secret_message">Luprema</string>
+    <string name="quiz_answer_body">A font family is a set of font files along with its style and weight details. In Android, you can create a new font family as an XML resource and access it as a single unit</string>
+    <string name="quiz_greeting">Faaaala Nem, é com muito carinho que fiz esse pequeno app para te desafiar.</string>
+    <string name="quiz_menu"></string>
+    <string name="quiz_tutorial">Então cara, basicamente é um pequeno quiz e no final vai haver uma mensagem que só será vista se você for capaz (UuuuHH). Espero que se divirta man! =)</string>
+    <string name="endgame_message">Você chegou no fim do Quiz Man!!! \nPode haver algo novo no menu do jogo ein =)\nMas nem tudo que só porque reluz é ouro, não é porque ciranda é cirandinha que vamos todos cirandar, não é porque a água é mole e a pedra é dura que tanto bate até que fura, não é porque porque falo demais que eu dou bom dia à cavalo, não é porque é tempo que é dinheiro, não é porque atirei o pau no gato que o gato não morreu, não é porque fui na fonte do tororó beber água que não achei água.</string>
+    <string name="back_to_menu">Ir para o Menu</string>
+    <string name="question_example">O que é o que é que é o que não é mas foi o que já é que não é mas foi o que já é que não é mas foi o que já é que não é mas foi o que já é?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secret_message_body_test">Loremasdf;laskjdf;lakjs;dlfja;sldkf;alskdjflaksjd;flkajs;dlfja;sldkj;laksjdf;laksd;lfkjas;ldkj\n;saldkja;sldkjf;laksjdf;lakjsd;lfkja;sldkfj;laksjdf;lkajsd;lkj;lk\npfsapldfghpslodfhgposhdfpgohsdpofighpoiih\n[jas;dlkfjh;sldkfhg;lskdhfg;lkshdf;lkjh\npalsdkhf;lsakhfg;lhsad;lfjh;lasjdf;lkajsl;kdfj;lajsd;fljaslkdjfksdfweriufweadjfnbsdjfgh\nsadhfgsdhfpgljhspdlkfhglsdfg;sdhf;glh;lkhpokh</string>
+    <string name="secret_message_author_test">Xulambs</string>
+    <string name="saved_high_score_key">quizScore</string>
+    <string name="answer_title">Resposta:</string>
+    <string name="puuts">Puuuts</string>
+    <string name="ok">Ok</string>
+    <string name="title_unauthorized">UEPAAAA 123 RRRRATINHOO</string>
+    <string name="message_unauthorized">Você ainda não passou pelo quiz.\nResponda todas as charadas e veja a parte bônus.\n=)</string>
+    <string name="message_evelyn">Gratidão, é a palavra certa para expressar o que eu sinto neste momento. Sou grata por ter você na minha vida, por ser essa pessoa maravilhosa, meu amigo, parceiro em todos os momentos. Te amo meu amor, desejo a nós dois toda felicidade deste mundo. É seu aniversário, mais o melhor presente foi eu que recebi.</string>
+    <string name="message_dry">Neném, eu sou sua fã! Como eu me orgulho desse homem de valor que se tornou! Como admiro você! Me inspiro na sua disciplina, na sua personalidade, no tanto que busca ser melhor sempre! Te amo demais meu irmão! Que seja o início de uma novo ciclo com muitas realizações!</string>
+    <string name="message_philippe">Nem, você é uma pessoa medriocrática, retumbante e réelpis, um cara batráquio, de caráter inoxidável!\nTe admiro muito mano, pela simplicidade e bondade que você tem brother, e pra mim é uma alegria tê-lo como cunhado e principalmente um irmão.\nVocê é brilhante e eu admiro muito isso em vc man,  tamo junto mano!!! </string>
+    <string name="name_evelyn">Evelyn</string>
+    <string name="name_dry">Dry</string>
+    <string name="name_philippe">Philippe</string>
+    <string name="title_unauthorized_message">UEPA</string>
+</resources>

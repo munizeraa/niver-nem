@@ -1,0 +1,507 @@
+[
+  {
+    "id": 0,
+    "text": "Qual cachorro mergulha muito?",
+    "answer": "Pitchbum"
+  },
+  {
+    "id": 1,
+    "text": "Qual cidade Nórdica tem problema de autoestima?",
+    "answer": "Estocolmo"
+  },
+  {
+    "id": 2,
+    "text": "Qual é o pão favorito dos Padres?",
+    "answer": "Ciabata"
+  },
+  {
+    "id": 3,
+    "text": "Porquê o médico do Luciano Hulk recomendou que ele jogasse League of Legends?",
+    "answer": "Porque LOLcura LOLcura LOLcura"
+  },
+  {
+    "id": 4,
+    "text": "Nos Estados Unidos, o que a CIA faz para prender cada vez mais bandidos?",
+    "answer": "Ela erra, pois é errando que CIAprende"
+  },
+  {
+    "id": 5,
+    "text": "Qual é a banda que pede para parar carinhosamente?",
+    "answer": "Paramore"
+  },
+  {
+    "id": 6,
+    "text": "Qual personagem solta peidos de 2 em 2?",
+    "answer": "Gás Parzinho"
+  },
+  {
+    "id": 7,
+    "text": "Qual é o veículo mais depreciado no mercado?",
+    "answer": "PEUGEOTrativo"
+  },
+  {
+    "id": 8,
+    "text": "Qual é o sambista que está sempre cansado?",
+    "answer": "Mortinho da Vila"
+  },
+  {
+    "id": 9,
+    "text": "O que tem bico mas não bica, asa mas não voa e pernas mas não anda?",
+    "answer": "Um pássaro adormecido"
+  },
+  {
+    "id": 10,
+    "text": "Qual é o prato de comida que está sempre ocupado no telefone?",
+    "answer": "TuTu"
+  },
+  {
+    "id": 11,
+    "text": "Qual parente você encontra na igreja?",
+    "answer": "Sermão"
+  },
+  {
+    "id": 12,
+    "text": "Do que é feita a Catedral?",
+    "answer": "De AlveMaria"
+  },
+  {
+    "id": 13,
+    "text": "Que elemento químico avaliamos sempre depois de usar?",
+    "answer": "U Berílio"
+  },
+  {
+    "id": 14,
+    "text": "Como foi que o Padre bateu o carro?",
+    "answer": "Deu uma Rezinha"
+  },
+  {
+    "id": 15,
+    "text": "Qual o contrário de papelada?",
+    "answer": "pavestida"
+  },
+  {
+    "id": 16,
+    "text": "Qual torresmo nunca está de bem com a vida?",
+    "answer": "Torresmungando"
+  },
+  {
+    "id": 17,
+    "text": "Qual é a capacidade do pendrive do baiano?",
+    "answer": "1 Ginga"
+  },
+  {
+    "id": 18,
+    "text": "Qual é o contrário de Salmão?",
+    "answer": "Açúcarpé"
+  },
+  {
+    "id": 19,
+    "text": "Qual é o sinônimo de um anão com cólica renal?",
+    "answer": "Um microcomputador"
+  },
+  {
+    "id": 20,
+    "text": "Qual é o grupo musical favorito do leão?",
+    "answer": "Rouge"
+  },
+  {
+    "id": 21,
+    "text": "Qual é Bala favorita da galera do hospício?",
+    "answer": "De Mentos"
+  },
+  {
+    "id": 22,
+    "text": "Como é uma pessoa que se deu bem na vida por ter um bocão?",
+    "answer": "Beiçucedida"
+  },
+  {
+    "id": 23,
+    "text": "Qual é a banda que tem todos os integrantes depilados?",
+    "answer": "Led Semppelin"
+  },
+  {
+    "id": 24,
+    "text": "Qual é a banda especializada em remoção de carpetes?",
+    "answer": "Revelachão"
+  },
+  {
+    "id": 25,
+    "text": "Porquê a fita isolante é melhor que a fita crepe?",
+    "answer": "Porquê ela é faixa preta"
+  },
+  {
+    "id": 26,
+    "text": "Porquê no exército nunca falta luz?",
+    "answer": "Porque todos os cabos já foram soldados"
+  },
+  {
+    "id": 27,
+    "text": "Qual é a sequência melódia que deixa toda música mais rica?",
+    "answer": "Dó Lá"
+  },
+  {
+    "id": 28,
+    "text": "Porquê a Hillary perdeu a presidência?",
+    "answer": "Ela não ia Trampar, mas talvez o Donald Trump"
+  },
+  {
+    "id": 29,
+    "text": "Pra onde o mamão foi nas férias?",
+    "answer": "Pa-paya."
+  },
+  {
+    "id": 30,
+    "text": "Qual o cereal preferido da vaca?",
+    "answer": "Muuuucilon."
+  },
+  {
+    "id": 31,
+    "text": "Imagino que tenho 50 reais, Zezinho 20 e Emily 40. Quantos temos no total?",
+    "answer": "Nada, pois é apenas imaginação."
+  },
+  {
+    "id": 32,
+    "text": "O que é que dá um pulo e se veste de noiva?",
+    "answer": "A pipoca."
+  },
+  {
+    "id": 33,
+    "text": "USabe como chama a sorveteria do Michel Teló?",
+    "answer": "Ice Te Pego"
+  },
+  {
+    "id": 34,
+    "text": "Qual o contrário de Bailarino?",
+    "answer": "Bailar-voltando."
+  },
+  {
+    "id": 35,
+    "text": "Por que o espanador não luta caratê?",
+    "answer": "Porque ele já luta capoeira."
+  },
+  {
+    "id": 36,
+    "text": "Qual é o oposto de fechadura?",
+    "answer": "Abremole."
+  },
+  {
+    "id": 37,
+    "text": "Qual o nome da ciência que transforma cachorro em gato?",
+    "answer": "Au que Mia"
+  },
+  {
+    "id": 38,
+    "text": "Sabe qual é o legume que ninguém consegue domesticar?",
+    "answer": "Seu Vagem"
+  },
+  {
+    "id": 39,
+    "text": "Como se faz pra transformar um suco em cobra?",
+    "answer": "Basta fazer cócegas nele, e o suco-ri (sucuri)"
+  },
+  {
+    "id": 40,
+    "text": "Tinha um velhinho no parque que vendia joias. Qual o nome do filme?",
+    "answer": "O Senhor dos Anéis."
+  },
+  {
+    "id": 41,
+    "text": "Qual é o filme que te ameaça de morte?",
+    "answer": "Vingadores eu-te-mato."
+  },
+  {
+    "id": 42,
+    "text": "33 casais vão ao cinema tomando coca-cola. Qual o nome do filme?",
+    "answer": "Arrota 66."
+  },
+  {
+    "id": 43,
+    "text": "Um homem está fazendo um filme, e em meio uma cena ele lembra que na sua infância seus colegas jogavam balas de menta nele. Qual o nome do filme?",
+    "answer": "Ator-mentado pelo passado."
+  },
+  {
+    "id": 44,
+    "text": "Zilla fez um gol. Qual é o nome do filme?",
+    "answer": "Goldezilla."
+  },
+  {
+    "id": 45,
+    "text": "Qual o filme estrelado por Jim Carrey e um cigarro?",
+    "answer": "Derby e Lóide."
+  },
+  {
+    "id": 46,
+    "text": "O motorista de Uber parou de trabalhar porque foi mal avaliado. Qual nome do filme?",
+    "answer": "A Culpa é das Estrelas."
+  },
+  {
+    "id": 47,
+    "text": "A família da fazenda estava sem leite para beber com café pela manhã e o pai mandou seus três filhos tirarem o leite das vacas. Qual o nome do filme?",
+    "answer": "Os Três Pra Teta."
+  },
+  {
+    "id": 48,
+    "text": "Tinham dez pessoas em cima de uma árvore jogando pastilhas garoto nas pessoas que passavam em baixo. Qual o nome do filme?",
+    "answer": "Os Dez Manda Menta."
+  },
+  {
+    "id": 49,
+    "text": "Quantas pata tem uma pata?",
+    "answer": "Somente uma, se fosse mais seria patapatapatapata..."
+  },
+  {
+    "id": 50,
+    "text": "Qual é a semelhança entre aranha e escorpião?",
+    "answer": "Com nenhum dos dois dá pra fazer bolo de abacate."
+  },
+  {
+    "id": 51,
+    "text": "Quantas sílaba tem a palavra Trissílaba?",
+    "answer": "Uma, se fosse mais seria Trissílabasílabasílaba..."
+  },
+  {
+    "id": 52,
+    "text": "Qual a semelhança de um sapo e uma vassoura?",
+    "answer": "Com nenhum dos dois dá pra fazer pastel."
+  },
+  {
+    "id": 53,
+    "text": "Qual é o contrário de salmão?",
+    "answer": "Açúcarpé."
+  },
+  {
+    "id": 54,
+    "text": "Responda se for capaz, sem ficar atrapalhado: nosso rei Pedro II, onde é que foi coroado?",
+    "answer": "Na cabeça."
+  },
+  {
+    "id": 55,
+    "text": "O rato roeu a roupa do rei de Roma. Quantas letras R têm isso?",
+    "answer": "A palavra \"isso\" não tem a letra R."
+  },
+  {
+    "id": 56,
+    "text": "Qual a semelhança entre uma cadeira e um cachorro?",
+    "answer": "Com nenhum dos dois dá pra fazer brigadeiro."
+  },
+  {
+    "id": 57,
+    "text": "O que o boi apaixonado disse pra vaca?",
+    "answer": "Te amuuuuuuuuuu"
+  },
+  {
+    "id": 58,
+    "text": "O que acontece quando chove na Inglaterra?",
+    "answer": "Vira Inglabarro"
+  },
+  {
+    "id": 59,
+    "text": "Onde o boi mais sofre?",
+    "answer": "Na fábrica da Friboi, porque lá Só-Friboi."
+  },
+  {
+    "id": 60,
+    "text": "Qual a semelhança entre um poste e um hipopótamo?",
+    "answer": "Com nenhum dos dois dá pra fazer doce de abóbora."
+  },
+  {
+    "id": 61,
+    "text": "Qual é a fruta que é amiga de todos?",
+    "answer": "A uva \"parça\"."
+  },
+  {
+    "id": 62,
+    "text": "Qual o instrumento que dá gritos?",
+    "answer": "A gritarra."
+  },
+  {
+    "id": 63,
+    "text": "Onde os Minions moram?",
+    "answer": "Em Condo-Minions."
+  },
+  {
+    "id": 64,
+    "text": "Farmácia começa F e termina com que letra?",
+    "answer": "Termina é com T."
+  },
+  {
+    "id": 65,
+    "text": "O que acabou em 1896?",
+    "answer": "1895."
+  },
+  {
+    "id": 66,
+    "text": "Qual é a galinha que cai e fica doida?",
+    "answer": "Galinha cai-pira."
+  },
+  {
+    "id": 67,
+    "text": "Quanto mede um pedaço de barbante?",
+    "answer": "O dobro da metade."
+  },
+  {
+    "id": 68,
+    "text": "Por que a vaca comprou um rádio?",
+    "answer": "Pra escutar múúúúúsica."
+  },
+  {
+    "id": 69,
+    "text": "Qual era a comida predileta dos faraós?",
+    "answer": "Faraófa."
+  },
+  {
+    "id": 70,
+    "text": "Qual MC que sustenta crianças?",
+    "answer": "MCilon"
+  },
+  {
+    "id": 71,
+    "text": "O que a Xuxa foi fazer no bar?",
+    "answer": "Beber CaSasha"
+  },
+  {
+    "id": 72,
+    "text": "Por que os pássaros voam para o sul?",
+    "answer": "Porque andando levariam muito tempo."
+  },
+  {
+    "id": 73,
+    "text": "Qual o contrário de paixão?",
+    "answer": "MãeTeto"
+  },
+  {
+    "id": 74,
+    "text": "Qual é a mãe mais brava do mundo?",
+    "answer": "A Eletricidade. Mexe nos fio dela pra você ver..."
+  },
+  {
+    "id": 75,
+    "text": "Qual raça de cachorro pode pular mais alto que um prédio?",
+    "answer": "Qualquer uma, pois prédios não pulam."
+  },
+  {
+    "id": 76,
+    "text": "Qual é o lugar mais certo do Brasil?",
+    "answer": "Sertão"
+  },
+  {
+    "id": 77,
+    "text": "Antes do Everest ser descoberto, qual era a maior montanha da Terra?",
+    "answer": "O Everest"
+  },
+  {
+    "id": 78,
+    "text": "É tão frágil que, só de mencioná-lo, ele se quebra.",
+    "answer": "Silêncio"
+  },
+  {
+    "id": 79,
+    "text": "Perde a cabeça pela manhã, mas a recupera à noite.",
+    "answer": "Travesseiro"
+  },
+  {
+    "id": 80,
+    "text": "Qual o único lugar do mundo onde hoje vem antes do ontem?",
+    "answer": "Dicionário"
+  },
+  {
+    "id": 81,
+    "text": "Qual é o ingrediente favorito dos mecânicos?",
+    "answer": "Batata Palio"
+  },
+  {
+    "id": 82,
+    "text": "Qual Ferramenta queria ser um Hot Dog?",
+    "answer": "SerroteDOG"
+  },
+  {
+    "id": 83,
+    "text": "Porquê a manicure foir demitida?",
+    "answer": "Ela acabou discutícula com o chefe"
+  },
+  {
+    "id": 84,
+    "text": "Qual é o nome do filme onde o cara inventa um remédio para uma doença que não tem?",
+    "answer": "Exterminador do Futuro"
+  },
+  {
+    "id": 85,
+    "text": "Qual é o estilo musical mais tocado nos esgotos?",
+    "answer": "Fossa Nova"
+  },
+  {
+    "id": 86,
+    "text": "No Carnaval, que bloco indígena não bebe?",
+    "answer": "MimCareta"
+  },
+  {
+    "id": 87,
+    "text": "Qual é o microorganismo que gosta de evangelizar?",
+    "answer": "Salmonela"
+  },
+  {
+    "id": 88,
+    "text": "Qual grupo musical só tem negros crianças?",
+    "answer": "Negro é tudo júnior"
+  },
+  {
+    "id": 89,
+    "text": "Qual Chinês adora doce?",
+    "answer": "Chan-Tilly"
+  },
+  {
+    "id": 90,
+    "text": "Qual é o programa favorito do Dr.Dolittle?",
+    "answer": "Conversa com Miau"
+  },
+  {
+    "id": 91,
+    "text": "O que o ladrão bonzinho faz ao achar a arma de outro ladrão?",
+    "answer": "Ele devÓlver"
+  },
+  {
+    "id": 92,
+    "text": "Qual parte do corpo é um grande vazio?",
+    "answer": "O SuVácuo"
+  },
+  {
+    "id": 93,
+    "text": "Qual o bolo favorito do Chorão?",
+    "answer": "O Charlie Brownie"
+  },
+  {
+    "id": 94,
+    "text": "O que é um ponto verde em dragon ball z?",
+    "answer": "Um verdita"
+  },
+  {
+    "id": 95,
+    "text": "O que é um gordinho subindo para cima?",
+    "answer": "Uma redondância"
+  },
+  {
+    "id": 96,
+    "text": "Porquê Joãozinho chorou ao jogar pimenta dentro de uma cova?",
+    "answer": "Covardia"
+  },
+  {
+    "id": 97,
+    "text": "Qual bebida favorita de Romeu e Julieta?",
+    "answer": "Milk Shakespeare"
+  },
+  {
+    "id": 98,
+    "text": "Qual aplicativo os presos utilizam para fugir da prisão?",
+    "answer": "Skype (escape)"
+  },
+  {
+    "id": 99,
+    "text": "Qual ator leva água benta para a casa branca?",
+    "answer": "Benzel Washington"
+  },
+  {
+    "id": 100,
+    "text": "Porquê a Laranja foi à Maternindade?",
+    "answer": "Ela foi ver a VitaminaCer"
+  }
+]

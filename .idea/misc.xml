@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.21614583333333334" />
+        <entry key="app/src/main/res/drawable/avatar_container.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/avatar_layer.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/message_author_container.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/message_author_layer.xml" value="0.3765625" />
+        <entry key="app/src/main/res/drawable/thanos_avatar.xml" value="0.3765625" />
+        <entry key="app/src/main/res/font/.xml" value="0.390625" />
+        <entry key="app/src/main/res/font/quiz.xml" value="0.390625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.29483695652173914" />
+        <entry key="app/src/main/res/layout/activity_secret_message.xml" value="0.20104166666666667" />
+        <entry key="app/src/main/res/layout/alternatives_item.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/finish_game_item.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/fragment_final_game.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/fragment_question.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/fragment_question1.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_question2.xml" value="0.31657608695652173" />
+        <entry key="app/src/main/res/layout/fragment_question3.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/fragment_question4.xml" value="0.20104166666666667" />
+        <entry key="app/src/main/res/layout/fragment_secret_message.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/fragment_summary.xml" value="0.31657608695652173" />
+        <entry key="app/src/main/res/layout/fragment_welcome.xml" value="0.40208333333333335" />
+        <entry key="app/src/main/res/layout/game_menu.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/navigation_buttons_item.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/question_buttons_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/question_item.xml" value="0.36041666666666666" />
+        <entry key="app/src/main/res/layout/secret_message_item.xml" value="0.358695652173913" />
+        <entry key="app/src/main/res/layout/single_answer_item.xml" value="0.33" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2171875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
