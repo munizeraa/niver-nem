@@ -11,7 +11,7 @@ I have  6 years in web development, in last 3 years as fullstack developer and i
 migrate to Android Development because i always loved mobile development and i'm a good moment to change my total focus to Android.
 
 
-What i'll see here?
+What you'll see here?
 - DataBinding
 - Navigation
 - ViewModel
